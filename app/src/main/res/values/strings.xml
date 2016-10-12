@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coffeina</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="starbuzz_logo">Logo kafeterii Coffeina</string>
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+</resources>
